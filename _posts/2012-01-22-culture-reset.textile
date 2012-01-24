@@ -1,0 +1,35 @@
+---
+layout: post
+title: Hitting the Reset Button, Culture Edition
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Jan 2012 - New York
+
+In the lean startup world, it's not uncommon to talk about hitting the reset button with your product. "Hitting reset" is the nuclear version of the "pivot," which is the "oh shit" version of a routine course correction, and so on.
+
+Profitably hasn't undergone a tremendous number of product pivots, though we have certainly had our share of internal challenges, mostly having to do with _execution_. And since my title is Chief EXECUTIVE Officer, that falls on me quite squarely.
+
+I sat down with Adam Riggs (former Shutterstock President and current Profitably investor) last week, and as we chatted about progress the company was making, it felt like I was describing someone else's company. Adam quite tactfully helped me come to the realization that 
+
+Profitably's core values (shallow, naive edition)
+
+# We’re here to help small businesses maximize profits
+# We aren’t a “charts & graphs” application
+# You really can manage your business with this tool
+# Simple. Intuitive.
+# Black boxes are for airplanes.  Both our numbers and our processes need utter clarity and transparency.
+# Business owners really do know their business best, and every business is unique
+# But also, your business is not unique.
+# Activity-based costing and profitability naturally occur in nature
+# We’re in it for the big WOWs, not the feature list.
+# We’d trade it all for happy customers.
+
+Profitably's core values
+
+Open/Transparent
+Substantive
+Simple/Intuitive
+Fast
+Awesome.
