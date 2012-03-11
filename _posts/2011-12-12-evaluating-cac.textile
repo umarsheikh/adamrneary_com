@@ -1,0 +1,67 @@
+---
+layout: post
+title: Evaluating Your Customer Acquisition Cost
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Jan 2012 - New York
+
+p(small). This article originally appeared at New York Enterprise Report [here](http://nyreport.com/customer_acquisition_cost).
+
+Quick question: Do you know what your customer acquisition cost for 2012 is going to look like? Have you monitored and evaluated that cost throughout the year? Are your shifting your eyes side to side wondering, “Huh? Customer acquisition cost?”
+
+While that was more than just one quick question, the end of the year is a great time for small business owners to look back and get a true understanding of how much it cost them, on average, to acquire a customer. And it’s an even better time to develop concrete strategies for reducing that number in 2012. After all, the less you have to spend to gain a customer, the more you can put in the bank, right?
+
+h3. What is Customer Acquisition Cost?
+
+Let’s start by putting this in context in case it’s been a while (as it probably has for most of us).
+
+Specifically, for a profitable business: 
+
+    LTV > CAC + CTS + Overheads
+
+That is, businesses make money when the total amount of revenue they see on average from each customer (Customer Lifetime Value or LTV) exceeds the amount of money it takes to attract and convert those customers (Customer Acquisition Cost or CAC) and the money it takes to deliver to them (Cost to Serve or CTS), less overheads.
+
+Most businesses don’t have much trouble tracking overheads and CTS. So let’s focus in on CAC, starting by defining customer acquisition cost and how it’s calculated (elementary for some, but setting a solid foundation is good practice).
+
+At it’s simplest, we are looking for “Unit Economics.” That is, what does “one” of something cost? In this case, what does it cost to acquire one customer?
+
+    CAC = (Sales and marketing costs in a period) / (New customers acquired in that period)
+
+The key is to include people costs, not just hard external costs, in the numerator. If you have a sales team, you include their salaries. But if you’re like most of us, it’s a portion of your time and perhaps that of several others on your team who commit part of their time to customer acquisition—even though it’s not technically in their job description.
+
+Every industry is different, but for, say, software as a service (SaaS) startups, LTV should be three times CAC to be comfortable. Venture capitalist David Skok’s seminal SaaS Metrics blog post provides some excellent context for software companies, but the concepts apply the same whether you’re an architecture firm, a boutique retailer, or an independent business coach.
+
+h3. How did you do in 2011?
+
+Next, let’s run through a few questions that can help you determine what your customer acquisition cost looked like for 2011.
+
+* How many new customers did you attract last year?
+* Which “channels” (online marketing, word of mouth, events...) delivered those customers?
+* How much did you spend externally on each of those channels?
+* How much time did you and people on your team spend on each of those channels?
+
+If you can answer the above questions (go ahead, make some simplifying assumptions—better to approximate than ignore!), then you can estimate historical CAC by channel, which is the foundation of forward planning.
+
+h3. How should you prioritize 2012?
+
+And now for 2012. As easy as it sounds, you would be amazed how infrequently business owners take the time to do the following:
+
+* Set specific customer acquisition targets for the coming year (serious targets for Q1 and perhaps rough estimates for the rest as you can return to these in three months)
+* Use historical CAC figures to estimate a sales and marketing budget (expenditures and, perhaps more importantly, time commitments!)
+* Break that high-level budget into specific channels and campaigns/activities
+
+Now that you’ve just run the numbers for each channel, you only have the following options for each:
+
+* Double down or increase spend/effort on channels that are performing better
+* Optimize under-performing channels (Careful—this is hard work... not to mention a whole other article!)
+* Pare down, or preferably, fire the “dog” channels
+
+“Fire a channel?!” you ask? Absolutely.
+
+Your time is limited, and you know you only have enough bandwidth to optimize one or two channels or campaigns at a time. Diversity in a gene pool is critical, but diversity in your channel portfolio is not. Cut away what’s not working rather than letting zombie marketing efforts wander unattended and under-performing, sapping your resources.
+
+Finally, you might want to consider automating this sort of planning and analysis so that next quarter you’ve got a rolling forecast already in place, allowing you to optimize on the fly. Profitably is just one of the tools in the marketplace designed to do just that, but going through the process is a lot more important than which tool you use.
+
+As with everything, it’s the doing that counts!
