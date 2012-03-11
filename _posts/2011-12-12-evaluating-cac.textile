@@ -3,11 +3,7 @@ layout: post
 title: Evaluating Your Customer Acquisition Cost
 ---
 
-h1. {{ page.title }}
-
-p(meta). 22 Jan 2012 - New York
-
-p(small). This article originally appeared at New York Enterprise Report [here](http://nyreport.com/customer_acquisition_cost).
+small. This article originally appeared at New York Enterprise Report [here](http://nyreport.com/customer_acquisition_cost).
 
 Quick question: Do you know what your customer acquisition cost for 2012 is going to look like? Have you monitored and evaluated that cost throughout the year? Are your shifting your eyes side to side wondering, “Huh? Customer acquisition cost?”
 
