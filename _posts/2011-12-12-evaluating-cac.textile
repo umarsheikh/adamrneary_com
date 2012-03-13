@@ -15,7 +15,7 @@ Let’s start by putting this in context in case it’s been a while (as it prob
 
 Specifically, for a profitable business: 
 
-    LTV > CAC + CTS + Overheads
+@LTV > CAC + CTS + Overheads@
 
 That is, businesses make money when the total amount of revenue they see on average from each customer (Customer Lifetime Value or LTV) exceeds the amount of money it takes to attract and convert those customers (Customer Acquisition Cost or CAC) and the money it takes to deliver to them (Cost to Serve or CTS), less overheads.
 
