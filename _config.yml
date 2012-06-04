@@ -1,2 +1,8 @@
 markdown: rdiscount
 pygments: true
+destination: ./_site
+plugins:     ./_plugins
+
+jammit_base_dir: .
+exclude: Gemfile, Gemfile.lock, README.md, Rakefile
+

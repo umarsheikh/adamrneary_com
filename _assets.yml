@@ -1,0 +1,14 @@
+package_assets:     on          # (on, off, always)
+compress_assets:    on          # (on, off)
+gzip_assets:        on          # (on, off)
+
+javascripts:
+  packaged_js_20120604:
+    -  js/bootstrap.js
+
+stylesheets:
+  packaged_css_20120604:
+    -  css/bootstrap.css
+    -  css/custom.css
+    -  css/syntax.css
+
