@@ -19,7 +19,5 @@ task :detailed_deploy do
 end
 
 def deploy_to
-  @s3_bucket_url = "s3://todo_ourbucketname"
+  @s3_bucket_url = "s3://www.adamrneary.com"
 end
-
-# with bucket www.profitably.com.s3.amazonaws.com site runs at http://www.profitably.com.s3.amazonaws.com.s3.amazonaws.com/index.html
