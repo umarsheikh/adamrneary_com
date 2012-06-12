@@ -1,3 +1,4 @@
-_drafts/
 .DS_Store
-assets
+_site/
+_drafts/
+assets/
